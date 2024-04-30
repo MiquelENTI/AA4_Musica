@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9ee2568d-2535-458c-ba83-c96f37841d9e}">
+		<property name="assetPath">
+			<value>electric-sparks-6130.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.856</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d808e659-7a76-4b57-8596-5e5fb2fdff3c}</destination>
+		</relationship>
+	</object>
+</objects>
