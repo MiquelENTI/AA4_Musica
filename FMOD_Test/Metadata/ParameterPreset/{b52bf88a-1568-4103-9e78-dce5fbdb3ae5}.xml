@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b52bf88a-1568-4103-9e78-dce5fbdb3ae5}">
+		<property name="name">
+			<value>LookoutWind</value>
+		</property>
+		<relationship name="folder">
+			<destination>{de5d0c24-a319-4897-97b5-917849745b92}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{99e26a80-56c2-40d2-9c43-f8c616571416}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{99e26a80-56c2-40d2-9c43-f8c616571416}">
+		<property name="initialValue">
+			<value>0.84975367784500122</value>
+		</property>
+	</object>
+</objects>
